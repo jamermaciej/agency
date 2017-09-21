@@ -395,7 +395,7 @@ main {
 
 .team {
   padding: 80px 0 0;
-  height: 500px;
+  height: 550px;
   background-color: #f5f5f5;
   position: relative; }
   .team:before {
@@ -876,14 +876,14 @@ main {
   .header.open {
     background: rgba(0, 0, 0, 0.7); }
   .home .home__content .shadow {
-    font-size: 8rem;
-    line-height: 80px; }
+    font-size: 7.5rem;
+    line-height: 70px; }
     .home .home__content .shadow .home__title--small {
       font-size: 4rem;
       margin-top: 30px; }
   .home .home__content .title-container .home__title {
-    font-size: 8rem;
-    line-height: 80px; }
+    font-size: 7.5rem;
+    line-height: 70px; }
     .home .home__content .title-container .home__title .home__title--small {
       font-size: 4rem;
       margin-top: 30px; }
